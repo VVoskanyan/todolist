@@ -1,0 +1,10 @@
+.footerblock{
+    margin-top: 40px;
+}
+.click{
+    margin-left: 20px;
+    padding: 0px 20px 0 20px;
+}
+button:hover{
+    background-color: darkgrey;
+}
